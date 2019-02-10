@@ -1,3 +1,5 @@
+This project is also featured on Medium.com at [link](https://medium.com/@denizdoruknuholu/dog-breed-classification-using-cnns-f042fbe0f333)
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
